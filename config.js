@@ -1,6 +1,6 @@
 global.DeveloperMode = 'false' //true Or false
-global.linkGC = ['https://chat.whatsapp.com/DmYC7VwLxpVIPHrysJFIC7']
-global.owner = ['6282114499086', '6282114499086', '6282114499086']// Put your number here
+global.linkGC = ['https://chat.whatsapp.com/LDN0EeJfASs0lbUhJsOJu1']
+global.owner = ['6285822347348', '6285822347348', '6285822347348']// Put your number here
 global.mods = [] // Want some help?
 global.prems = [] // Premium user has unlimited limit
 global.APIs = { // API Prefix
@@ -26,10 +26,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.packname = 'Benniganteng\'benniismael'
-global.author = 'Benniismael'
+global.packname = 'ArullBotz\'ArullBotz'
+global.author = 'Arull'
 
-global.multiplier = 69 // The higher, The harder levelup
+global.multiplier = 999 // The higher, The harder levelup
 
 let fs = require('fs')
 let chalk = require('chalk')
